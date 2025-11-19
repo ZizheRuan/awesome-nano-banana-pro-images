@@ -23,23 +23,23 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
 
 ⭐ Star or Watch this project for future updates!
 
-## 📑 Prompt Gallery
+## 🖼️ Prompt Gallery
 
-- [🖼️ Cases](#️-cases)
+- [✨ Cases list](#️-cases)
   - [Case 1: Solve math problem on whiteboard（by @mark_k）](#case-1-solve-math-problem-on-whiteboardby-mark_k)
-  - [Case 2: Assemble from torn and mixed-up pieces（by @ai_for_success）](#case-2-assemble-from-torn-and-mixed-up-piecesby-ai_for_success)
+  - [Case 2: Assemble message from torn and mixed-up pieces（by @ai_for_success）](#case-2-assemble-message-from-torn-and-mixed-up-piecesby-ai_for_success)
 
-## 🖼️ Cases
+## ✨ Cases
 
 <!-- Case 1: Solve math problem on whiteboard (by @mark_k) -->
 ### Case 1: [Solve math problem on whiteboard](https://x.com/mark_k/status/1987822081363583381)（by [@mark_k](https://x.com/mark_k)）
 
 | Input | Output |
 |:---:|:---:|
-| <img src="images/case1/input0.jpg" width="200" alt="Input Image"> | <img src="images/case1/output0.jpg" width="200" alt="Output Result"> |
+| <img src="images/1_i.jpg" width="200" alt="Input Image"> | <img src="images/1_o.jpg" width="200" alt="Output Result"> |
 
 
-**input:** A reference image
+**input:** a reference image
 
 **prompt:**
 
@@ -48,13 +48,13 @@ solve this math problem and write the full solution on a whiteboard
 ```
 
 <!-- Case 2: Generate Ground View from Map Arrow (by @tokumin) -->
-### Case 2: [Assemble from torn and mixed-up pieces](https://x.com/ai_for_success/status/1988043651445125191/photo/1)（by [@ai_for_success](https://x.com/ai_for_success)）
+### Case 2: [Assemble message from torn and mixed-up pieces](https://x.com/ai_for_success/status/1988043651445125191/photo/1)（by [@ai_for_success](https://x.com/ai_for_success)）
 
 | Input | Output |
 |:---:|:---:|
-| <img src="images/case2/input0.jpg" width="300" alt="Input Image"> | <img src="images/case2/output0.jpg" width="300" alt="Output Result"> |
+| <img src="images/2_i.jpg" width="300" alt="Input Image"> | <img src="images/2_o.jpg" width="300" alt="Output Result"> |
 
-**input:** A reference image
+**input:** a reference image
 
 **prompt:**
 
