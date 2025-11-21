@@ -46,6 +46,9 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
 ```
 A highly imaginative, ultra-cool, eye-catching cyberpunk-inspired banana artwork in vivid, neon-saturated colors. A single banana occupies most of the frame, rendered in a surreal, futuristic, abstract style that clearly does not resemble the real world. 1:1 aspect ratio. Add three lines of English text: ‘Nano’, ‘Banana’, ‘Pro’. The text should not block the banana too much, but may slightly overlap if needed. Extremely stylish, futuristic, and visually striking.
 ```
+```
+以香蕉为主题，生成一张最炫酷吸睛，色彩鲜艳的香蕉主题图片，可以是抽象的赛博朋克主题，场景要非常炫酷，一看就不是真实世界，而是高度想象力的，横纵比例1:1，香蕉要占据主要面积，图上加三行英文文字，分别是"Nano""Banana""Pro"，尽量不要挡住香蕉，但也可以盖在一小部分香蕉上面，不要出现中文
+```
 
 <!-- Case 1: Solve math problem on whiteboard (by @mark_k) -->
 ### Case 1: [Solve math problem on whiteboard](https://x.com/mark_k/status/1987822081363583381)（by [@mark_k](https://x.com/mark_k)）
