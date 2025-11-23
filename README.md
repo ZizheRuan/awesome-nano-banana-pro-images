@@ -1,11 +1,11 @@
-# 🍌 Awesome **Nano Banana Pro** Images Prompt Gallery 🍌
+# 🍌 Awesome **Nano Banana Pro** Images Gallery
 
 ⭐ Please Star or Watch this project for future updates!
 
 last updated: Nov 23rd 2025.
 
 ## 🔍 Introduction
-awesome-nano-banana-pro-images is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the **Nano Banana Pro (Google Gemini 3 Pro Image Preview)** model, currently accessible through *third-party preview APPs*.  
+awesome-nano-banana-pro-images is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the **Nano Banana Pro (Google Gemini 3 Pro Image Preview)** model.  
 This repository aims to help creators, researchers, and prompt engineers better understand how to craft effective prompts for the model during its pre-release phase.
 
 ## 📌 What This Repository Contains
@@ -32,14 +32,17 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
   - [Case 1: Turn item into cyberpunk style with text（by @ZizheRuan）](#case-1-turn-item-into-cyberpunk-style-with-textby-zizheruan)
   - [Case 2: Solve math problem on whiteboard（by @mark_k）](#case-2-solve-math-problem-on-whiteboardby-mark_k)
   - [Case 3: Assemble message from torn and mixed-up pieces（by @ai_for_success）](#case-3-assemble-message-from-torn-and-mixed-up-piecesby-ai_for_success)
-  - [Case 4: Anime style to Live-action photo（by @wanerfu）](#case-4-anime-style-to-live-action-photoby-wanerfu)
-  - [Case 5: Live-action to photo Anime style（by @TWnese）](#case-5-live-action-to-photo-anime-styleby-twnese)
+  - [Case 4: Anime style to Live-action image（by @wanerfu）](#case-4-anime-style-to-live-action-imageby-wanerfu)
+  - [Case 5: Live-action image to Anime style（by @TWnese）](#case-5-live-action-image-to-anime-styleby-twnese)
   - [Case 6: Watercolor-ink style series comic（by @ZizheRuan）](#case-6-watercolor-ink-style-series-comicby-zizheruan)
-  - [Case 7: Futuristic space station as commercial website background（by @ZizheRuan）](#case-7-futuristic-space-station-as-commercial-website-backgroundby-zizheruan)
+  - [Case 7: Futuristic space station as commercial website advertisement（by @ZizheRuan）](#case-7-futuristic-space-station-as-commercial-website-advertisementby-zizheruan)
+  - [Case 8: Create picture by location and time（by @minchoi）](#case-8-create-picture-by-location-and-timeby-minchoi)
+  - [Case 9: Recursive photograph with time stamp（by @goodside）](#case-9-recursive-photograph-with-time-stampby-goodside)
+  - [Case 10: Traditional color ink painting with modern cartton characters（by @dotey）](#case-10-traditional-color-ink-painting-with-modern-cartton-charactersby-dotey)
 
 ## ✨ Cases
 
-### Case 1: [Turn item into cyberpunk style with text](https://copictor.com/case/nanobananapro)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+### Case 1: [Turn item into cyberpunk style with text](https://copictor.com/model/nanobananapro)（by [@ZizheRuan](https://x.com/ZizheRuan)）
 
 | Input | Output |
 |:---:|:---:|
@@ -87,7 +90,7 @@ solve this math problem and write the full solution on a whiteboard
 assemble the original message from the torn and mixed-up pieces
 ```
 
-### Case 4: [Anime style to Live-action photo](https://x.com/wanerfu/status/1992126414330712232)（by [@wanerfu](https://x.com/wanerfu)）
+### Case 4: [Anime style to Live-action image](https://x.com/wanerfu/status/1992126414330712232)（by [@wanerfu](https://x.com/wanerfu)）
 
 | Input | Output |
 |:---:|:---:|
@@ -104,7 +107,7 @@ Show me the real-life photo version of Image 1
 ```
 
 
-### Case 5: [Live-action to photo Anime style](https://x.com/TWnese/status/1992433829391540232)（by [@TWnese](https://x.com/TWnese)）
+### Case 5: [Live-action image to Anime style](https://x.com/TWnese/status/1992433829391540232)（by [@TWnese](https://x.com/TWnese)）
 
 ([Original post source link](https://x.com/TWnese/status/1992433829391540232) / [Author](https://x.com/TWnese))
 
@@ -137,7 +140,7 @@ Create a comic with the title: Getting started with Nano Banana Pro 🍌. Panel 
 ```
 
 
-### Case 7: [Futuristic space station as commercial website background](https://aijustbetter.com/auth/register)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+### Case 7: [Futuristic space station as commercial website advertisement](https://aijustbetter.com/auth/register)（by [@ZizheRuan](https://x.com/ZizheRuan)）
 
 | Input | Output |
 |:---:|:---:|
@@ -148,4 +151,51 @@ Create a comic with the title: Getting started with Nano Banana Pro 🍌. Panel 
 **prompt:**
 ```
 Generate an image of movie style realistic spaceship hub in universe, it is routing, transmitting and ejecting small spaceships in different shapes into different directions and destinations, with their path can be seen, in overall dark space theme mode, with colors of #008ffc and #ff0fdb as main theme colors, in futuristic and space oddesey style, with text "AI JUST BETTER.COM" vividly shown in a fancy and goodlooking way in the center of the image but not cover on the spaceship. Feels like in the real universe space. Make the aspect ratio 1:1.
+```
+
+
+### Case 8: [Create picture by location and time](https://x.com/minchoi/status/1992272691622264841)（by [@minchoi](https://x.com/minchoi)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/8_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Create an image of 36.4602° N 25.3730° E at sunset
+```
+
+
+
+### Case 9: [Recursive photograph with time stamp](https://x.com/goodside/status/1992038915881029641)（by [@goodside](https://x.com/goodside)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/9_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
+```
+
+
+### Case 10: [Traditional color ink painting with modern cartton characters](https://x.com/dotey/status/1992366309288595681)（by [@dotey](https://x.com/dotey)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/10_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. 
+
+Three Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. 
+
+Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
 ```
