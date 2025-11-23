@@ -140,7 +140,7 @@ Create a comic with the title: Getting started with Nano Banana Pro 🍌. Panel 
 ```
 
 
-### Case 7: [Futuristic space station as commercial website advertisement](https://aijustbetter.com/auth/register)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+### Case 7: [Futuristic commercial website advertisement with text](https://aijustbetter.com/auth/register)（by [@ZizheRuan](https://x.com/ZizheRuan)）
 
 | Input | Output |
 |:---:|:---:|
@@ -183,7 +183,7 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 ```
 
 
-### Case 10: [Traditional color ink painting with modern cartton characters](https://x.com/dotey/status/1992366309288595681)（by [@dotey](https://x.com/dotey)）
+### Case 10: [Traditional color ink painting with modern cartoon characters](https://x.com/dotey/status/1992366309288595681)（by [@dotey](https://x.com/dotey)）
 
 | Input | Output |
 |:---:|:---:|
