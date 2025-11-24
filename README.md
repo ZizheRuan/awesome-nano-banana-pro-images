@@ -1,4 +1,4 @@
-# 🍌 Awesome **Nano Banana Pro** Images Gallery
+# 🍌 Awesome **Nano Banana Pro** Prompts & Examples Gallery
 
 ⭐ Please Star or Watch this project for future updates!
 
@@ -22,10 +22,6 @@ This project serves as a practical reference for anyone experimenting with the N
 - Explore prompt patterns that lead to strong outputs  
 - Help users learn and iterate faster  
 
-## 🙏 Acknowledge
-All images and prompts included here are collected from **publicly shared sources** or generated through legitimate Apps/APIs**.  
-This repository does **not** host internal, leaked, or proprietary data.
-Cases come from X.com, RedNote and other social media. Copyrights credits to original authors and artists. This repo is inspired by projects awesome-nano-banana, awesome-gpt4o-images and Awesome-Nano-Banana-images.
 
 
 
@@ -265,3 +261,11 @@ Generate a close-up shot of a long-haired woman on a moonlit beach at night, usi
 ```
 生成一张夜晚月亮下的沙滩长发女性的中及教景特写照片，通过手绘白色线条轮廓展示人物动作， 不要出现人脸，只需要一个人，其他物品不允许使用线框，不要有文字，需要用来指导模特做动作使用。
 ```
+
+
+
+
+## 🙏 Acknowledge
+All images and prompts included here are collected from **publicly shared sources** or generated through legitimate Apps/APIs**.  
+This repository does **not** host internal, leaked, or proprietary data.
+Cases come from X.com, RedNote and other social media. Copyrights credits to original authors and artists. This repo is inspired by projects awesome-nano-banana, awesome-gpt4o-images and Awesome-Nano-Banana-images.
