@@ -2,7 +2,7 @@
 
 ⭐ Please Star or Watch this project for future updates!
 
-last updated: Nov 24th 2025. 
+last updated: Nov 26th 2025. 
 
 ## 💡 Where can I try Nano Banana Pro?
 It is recommended to start for free on [Copictor.com](https://copictor.com/) with a collection of artist-crafted built-in prompts.
@@ -50,6 +50,9 @@ This project serves as a practical reference for anyone experimenting with the N
   - [Case 19: 3D Topology（by @alex_prompter）](#case-19-3d-topologyby-alex_prompter)
   - [Case 20: Inner scientific machines（by @alex_prompter）](#case-20-inner-scientific-machinesby-alex_prompter)
   - [Case 21: Scientific Scatter Plot（by @alex_prompter）](#case-21-scientific-scatter-plotby-alex_prompter)
+  - [Case 23: 8-bit style map（by @Mr_AllenT）](#case-23-8-bit-style-mapby-mr_allent)
+  - [Case 24: rate your face symmetry（by @Samann_ai）](#case-24-rate-your-face-symmetryby-samann_ai)
+  - [Case 25: Age checker（by @Samann_ai）](#case-25-age-checkerby-samann_ai)
 
 ## ✨ Cases
 
@@ -368,6 +371,86 @@ Tokamak Fusion Reactor Magnetic Field Lines
 Visualizing the "Latent Space" (t-SNE Scatter Plot)
 ```
 
+
+### Case 23: [8-bit style map](https://x.com/FinanceYF5/status/1993221813741228528)（by [@Mr_AllenT](https://x.com/Mr_AllenT)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/23_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+1.8-bit Style San Francisco
+```
+```
+1.8-bit 风格的旧金山
+```
+
+
+### Case 24: [rate your face symmetry](https://x.com/Samann_ai/status/1992171138730885618)（by [@Samann_ai](https://x.com/Samann_ai)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/24_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Use the provided portrait photo <YOUR PHOTO> as the base. 
+Do NOT change the person’s face, expression, age, skin tone or gender. Just overlay a clean, minimal infographic on top.
+Create a high-resolution vertical “FACIAL AESTHETIC REPORT” poster, studio lighting, soft beige background, premium beauty clinic style.
+The subject can be MALE or FEMALE – keep them exactly as in the original photo. 
+Add thin white lines and labels pointing to each area of the REAL face, with percentage scores based on global aesthetic ratios, symmetry and proportions (not changing the face):
+1. Eyes:
+   Label near the eyes with a line pointing to them:
+   “Eyes Beauty – 0–100%”
+   Example: “Eyes Beauty – 92%”
+2. Cheeks:
+   Label near the cheekbones:
+   “Cheeks Harmony – 0–100%”
+   Example: “Cheeks Harmony – 85%”
+3. Lips:
+   Label close to the mouth:
+   “Lips Shape – 0–100%”
+   Example: “Lips Shape – 88%”
+4. Eyebrows:
+   Label above or beside the brows:
+   “Eyebrows Design – 0–100%”
+   Example: “Eyebrows Design – 80%”
+5. Jaw & Chin:
+   Label near the jawline and chin:
+   “Jaw & Chin Definition – 0–100%”
+   Example: “Jaw & Chin Definition – 90%”
+6. Overall Facial Symmetry:
+   Label near the center of the face:
+   “Facial Symmetry – 0–100%”
+   Example: “Facial Symmetry – 89%”
+At the bottom center of the poster, add a BIG, bold number inside a circle or rectangle:
+   “OVERALL SCORE: XX%”
+This is the total facial aesthetic score from 1–100%.
+Design style:
+– clean, medical-grade, aesthetic-clinic infographic
+– modern thin sans-serif typography
+– white text and lines, subtle drop shadows
+– no logos, no extra graphics, no text other than the labels and scores above.
+```
+
+
+### Case 25: [Age checker](https://x.com/Samann_ai/status/1992171138730885618)（by [@Samann_ai](https://x.com/Samann_ai)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/25_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+A hyper-realistic, high-resolution portrait infographic based on (your photo). Keep the same person, identity, hairstyle, clothing and natural skin tone from (your photo), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
+```
 
 
 ## 🙏 Acknowledge
