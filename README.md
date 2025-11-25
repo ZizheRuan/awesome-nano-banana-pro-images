@@ -4,12 +4,13 @@
 
 last updated: Nov 24th 2025. 
 
+## 💡 Where can I try Nano Banana Pro?
+It is recommended to start for free on [Copictor.com](https://copictor.com/) with a collection of artist-crafted built-in prompts.
+
 ## 🔍 Introduction
 awesome-nano-banana-pro-images is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the **Nano Banana Pro (Google Gemini 3 Pro Image Preview)** model.  
 This repository aims to help creators, researchers, and prompt engineers better understand how to craft effective prompts for the model during its pre-release phase.
 
-## 💡 Where can I try Nano Banana Pro?
-It is recommended to start for free on [Copictor.com](https://copictor.com/) with a collection of artist-crafted built-in prompts, it is also maintained by me.
 
 ## 📌 What This Repository Contains
 - Community-shared prompts that produce high-quality or interesting results  
@@ -41,7 +42,14 @@ This project serves as a practical reference for anyone experimenting with the N
   - [Case 11: Hand drawn schematic diagram from photo（by @alisa_fortin）](#case-11-hand-drawn-schematic-diagram-from-photoby-alisa_fortin)
   - [Case 12: Photo style picture from hand drawn schematic diagram（by @citychittagong1）](#case-12-photo-style-picture-from-hand-drawn-schematic-diagramby-citychittagong1)
   - [Case 13: Hand drawn schematic diagram from text（by @alloysiusattah）](#case-13-hand-drawn-schematic-diagram-from-textby-alloysiusattah)
-  - [Case 14: hand-drawn white outlines to depict figure pose（by @ZeroZ_JQ）](#case-14-hand-drawn-white-outlines-to-depict-figure-poseby-zeroz_jq)
+  - [Case 14: Hand-drawn white outlines to depict figure pose（by @ZeroZ_JQ）](#case-14-hand-drawn-white-outlines-to-depict-figure-poseby-zeroz_jq)
+  - [Case 15: A two-panel technical blueprint diagram（by @egeberkina）](#case-15-a-two-panel-technical-blueprint-diagramby-egeberkina)
+  - [Case 16: 3D fluffy logo（by @gizakdag）](#case-16-3d-fluffy-logoby-gizakdag)
+  - [Case 17: Landmark Infographics（by @TechieBySA）](#case-17-landmark-infographicsby-techiebysa)
+  - [Case 18: Google map style graphics（by @alex_prompter）](#case-18-google-map-style-graphicsby-alex_prompter)
+  - [Case 19: 3D Topology（by @alex_prompter）](#case-19-3d-topologyby-alex_prompter)
+  - [Case 20: Inner scientific machines（by @alex_prompter）](#case-20-inner-scientific-machinesby-alex_prompter)
+  - [Case 21: Scientific Scatter Plot（by @alex_prompter）](#case-21-scientific-scatter-plotby-alex_prompter)
 
 ## ✨ Cases
 
@@ -262,6 +270,103 @@ Generate a close-up shot of a long-haired woman on a moonlit beach at night, usi
 生成一张夜晚月亮下的沙滩长发女性的中及教景特写照片，通过手绘白色线条轮廓展示人物动作， 不要出现人脸，只需要一个人，其他物品不允许使用线框，不要有文字，需要用来指导模特做动作使用。
 ```
 
+
+### Case 15: [A two-panel technical blueprint diagram](https://x.com/egeberkina/status/1992173777518813266)（by [@egeberkina](https://x.com/egeberkina)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/15_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+A two-panel technical blueprint diagram in clean monochrome line-art, matching the exact layout of the provided PlayStation 1 schematic. On the left side, draw a full, intact Sony PlayStation 5 console in precise thin line-art on a white background. On the right side, draw a highly detailed, vertically exploded-view diagram of the PS5 showing each internal component separated into layers: outer shell panels, faceplates, cooling fan, heatsink tower, Blu-ray drive, motherboard, SSD module, power supply, internal frame, ports, vents, base stand, screws. Use consistent thin grey line-weight with no shading. Add numbered circular labels around each part, and include a matching numbered parts list at the bottom just like the reference blueprint. Place the SONY logo, PlayStation logo, and “PlayStation 5” text in the top left in the exact same position and style as the uploaded reference image. The entire artwork should mirror the composition, spacing, typography, and minimalist engineering-manual aesthetic of the reference diagram.
+```
+
+
+### Case 16: [3D fluffy logo](https://x.com/gizakdag/status/1991606990448259094)（by [@gizakdag](https://x.com/gizakdag)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/16_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Transform Google's G logo into a soft, 3D fluffy object. Use the exact colors. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
+```
+
+
+### Case 17: [Landmark Infographics](https://x.com/TechieBySA/status/1991820056377078179)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/17_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.
+```
+
+
+### Case 18: [Google map style graphics](https://x.com/alex_prompter/status/1993012863594905631)（by [@alex_prompter](https://x.com/alex_prompter)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/18_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Google Street View, coordinates [COORDINATES]
+```
+
+
+### Case 19: [3D Topology](https://x.com/alex_prompter/status/1992971116516876751)（by [@alex_prompter](https://x.com/alex_prompter)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/19_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+The 3D "Loss Landscape" Topology
+```
+
+
+### Case 20: [Inner scientific machines](https://x.com/alex_prompter/status/1992971116516876751)（by [@alex_prompter](https://x.com/alex_prompter)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/20_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Tokamak Fusion Reactor Magnetic Field Lines
+```
+
+
+### Case 21: [Scientific Scatter Plot](https://x.com/alex_prompter/status/1992971116516876751)（by [@alex_prompter](https://x.com/alex_prompter)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/21_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Visualizing the "Latent Space" (t-SNE Scatter Plot)
+```
 
 
 
