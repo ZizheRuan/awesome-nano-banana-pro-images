@@ -29,6 +29,9 @@ This project serves as a practical reference for anyone experimenting with the N
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
+  - [Case 38: Streaming girl with mirror at gym（by @godofprompt）](#case-38-streaming-girl-with-mirror-at-gymby-godofprompt)
+  - [Case 37: Recreate ad with different product（by @VibeMarketer_）](#case-37-recreate-ad-with-different-productby-vibemarketer_)
+  - [Case 36: Recreate Britney at MV of Baby One More Time（by @shoolian）](#case-36-recreate-britney-at-mv-of-baby-one-more-timeby-shoolian)
   - [Case 35: Change people in video game（by @Parul_Gautam7）](#case-35-change-people-in-video-gameby-parul_gautam7)
   - [Case 34: Change people in TV show（by @Parul_Gautam7）](#case-34-change-people-in-tv-showby-parul_gautam7)
   - [Case 33: Change people on album cover（by @Parul_Gautam7）](#case-33-change-people-on-album-coverby-parul_gautam7)
@@ -68,6 +71,109 @@ This project serves as a practical reference for anyone experimenting with the N
 
 ## ✨ Cases
 
+
+### Case 38: [Streaming girl with mirror at gym](https://x.com/godofprompt/status/1994226363692171267)（by [@godofprompt](https://x.com/godofprompt)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="500" alt="Input Image"> | <img src="images/38_o.jpg" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+{
+  "subject": {
+    "description": "A young woman sitting on yoga mat, wiping sweat with towel, holding water bottle",
+    "mirror_rules": "N/A - direct gym photo",
+    "age": "late 20s",
+    "expression": "accomplished, slight breathlessness, confident smile",
+    "hair": {
+      "color": "blonde with highlights",
+      "style": "high ponytail, slightly messy with flyaways from workout"
+    },
+    "clothing": {
+      "top": {
+        "type": "sports bra",
+        "color": "dusty rose pink",
+        "details": "medium support, strappy back detail, moisture visible from sweat"
+      },
+      "bottom": {
+        "type": "high-waisted leggings",
+        "color": "black with mesh panels",
+        "details": "ankle length, mesh cutouts on calves, compression fit"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "minimal, dewy from workout, natural flushed cheeks, no eye makeup"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "none",
+      "details": "hair pulled back in scrunchie"
+    },
+    "jewelry": {
+      "earrings": "small diamond studs",
+      "necklace": "none",
+      "wrist": "rose gold fitness tracker, black hair ties on wrist",
+      "rings": "none"
+    },
+    "device": {
+      "type": "smartphone",
+      "details": "propped against dumbbell, recording workout selfie"
+    },
+    "prop": {
+      "type": "insulated water bottle",
+      "details": "matte black 32oz bottle with motivational quote sticker, condensation visible"
+    }
+  },
+  "photography": {
+    "camera_style": "gym selfie aesthetic, smartphone front camera",
+    "angle": "slightly above eye level, sitting position",
+    "shot_type": "full upper body and crossed legs, centered composition",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "crisp detail, bright gym lighting, energetic feel"
+  },
+  "background": {
+    "setting": "modern gym studio",
+    "wall_color": "light gray with motivational mural",
+    "elements": [
+      "purple yoga mat laid out",
+      "set of dumbbells scattered nearby",
+      "white towel draped over shoulder",
+      "blurred gym equipment in background",
+      "large mirror reflecting back wall",
+      "resistance bands coiled on floor"
+    ],
+    "atmosphere": "energetic, accomplished, health-focused",
+    "lighting": "bright overhead LED gym lighting, even coverage"
+  }
+}
+```
+
+### Case 37: [Recreate ad with different product](https://x.com/VibeMarketer_/status/1993757724564189225)（by [@VibeMarketer_](https://x.com/VibeMarketer_)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/37_i.jpg" width="500" alt="Input Image"> | <img src="images/37_o.jpg" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+Recreate this ad concept using my product instead of theirs. Keep the same mood, lighting, composition, and overall vibe. Remove all competitor branding.
+Replace the product with the one from my uploaded image and adapt all background elements, props, and surrounding textures to be visually relevant to my product’s brand, flavor profile, and aesthetic — not the original brand’s. Maintain photorealism and accurate product proportions.
+```
+
+
+### Case 36: [Recreate Britney at MV of Baby One More Time](https://x.com/shoolian/status/1991793665463795817)（by [@shoolian](https://x.com/shoolian)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="500" alt="Input Image"> | <img src="images/36_o.jpg" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+A live television camera operator on the set of Britney Spears' "...Baby One More Time" music video, capturing the iconic high school hallway dance sequence through a broadcast viewfinder. Britney, wearing the legendary knotted schoolgirl shirt, pleated skirt, and loafers, is frozen mid-choreography under the hot studio lights. The set is a meticulously constructed, brightly lit American high school hallway, complete with lockers and a polished floor, filled with backup dancers. The director monitors the shot from a video village setup, documenting the creation of a defining pop culture moment that launched a superstar. Shot on late-90s broadcast television cameras, this behind-the-scenes view captures the raw energy and professionalism behind one of the most memorable music videos in history.
+```
 
 ### Case 35: [Change people in video game](https://x.com/Parul_Gautam7/status/1992965275160019102)（by [@Parul_Gautam7](https://x.com/Parul_Gautam7)）
 
